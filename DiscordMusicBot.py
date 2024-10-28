@@ -49,7 +49,7 @@ async def on_ready():
     print(f'Bot je prihlásený ako {bot.user}.')
 
 @bot.command()
-async def play_yt(ctx, url: str):
+async def play(ctx, url: str):
     # Získa hlasový kanál s názvom "Channel"
     voice_channel = discord.utils.get(ctx.guild.voice_channels, name="🔫 CS2 #1")
     
