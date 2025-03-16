@@ -4,9 +4,9 @@ Python Discord Bot code
 
 - command for DiscordMusicBot.py
 ```
-!play (here some youtube song video link)
+!play_yt (here some youtube song video link)
 ```
 - example
 ```
-!play https://youtube.com/(endurl)
+!play_yt https://youtube.com/(endurl)
 ```
