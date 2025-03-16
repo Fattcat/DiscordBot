@@ -1,5 +1,5 @@
 # DiscordBot
-Python Discord Bot code
+- ENSURE CONNECTED AUDIO or HEADSDSETS (because then you might have problem with listening to songs)
 ## commands
 
 - command for DiscordMusicBot.py
