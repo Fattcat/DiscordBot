@@ -11,3 +11,11 @@
 ```
 !play_yt https://youtube.com/(endurl)
 ```
+- or
+```
+!play_local (here local song in same folder)
+```
+- example
+```
+!play_local MySong.mp3
+```
